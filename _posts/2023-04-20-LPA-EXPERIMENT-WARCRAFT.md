@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPA Experiment - Warcraft - 1"
+title: "LPA Experiment - Warcraft"
 description: "2023-04-02"
 date: 2023-04-02
 tags: [LPA ,Thesis , ML, Awesome , Warcraft]

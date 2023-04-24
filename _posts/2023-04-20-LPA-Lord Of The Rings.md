@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LPA Experiment - lord_of_the_rings"
-# description: "LPA Experiment - lord_of_the_rings - 1"
+description: "LPA Experiment"
 date: 2023-04-02
 tags: [LPA ,Thesis , ML, Awesome , lord_of_the_rings]
 ---

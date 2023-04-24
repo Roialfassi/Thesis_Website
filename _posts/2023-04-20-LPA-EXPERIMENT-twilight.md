@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPA Experiment - Twilight - 1"
+title: "LPA Experiment - Twilight"
 description: "2023-04-02"
 date: 2023-04-02
 tags: [LPA ,Thesis , ML, Awesome , Twilight]
