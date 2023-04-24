@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "LPA Experiment - Warcraft - 1"
-description: "LPA Experiment - Warcraft - 1"
+description: "2023-04-02"
 date: 2023-04-02
 tags: [LPA ,Thesis , ML, Awesome , Warcraft]
 ---
 # LPA experiment in warcraft
 
 This repository contains code and data for the LPA experiment in warcraft.
+
 <!--more-->
 
 

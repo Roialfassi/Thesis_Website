@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "LPA Experiment - Warcraft - 1"
-description: "LPA Experiment - Warcraft - 1"
+title: "LPA Experiment - Twilight - 1"
+description: "2023-04-02"
 date: 2023-04-02
-tags: [LPA ,Thesis , ML, Awesome , Pok_mon]
+tags: [LPA ,Thesis , ML, Awesome , Twilight]
 ---
 # LPA experiment in twilight
 
