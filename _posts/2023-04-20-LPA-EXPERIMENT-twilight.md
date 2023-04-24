@@ -5,11 +5,12 @@ description: "2023-04-02"
 date: 2023-04-02
 tags: [LPA ,Thesis , ML, Awesome , Twilight]
 ---
+
+<!--more-->
 # LPA experiment in twilight
 
 This repository contains code and data for the LPA experiment in twilight.
 
-<!--more-->
 
 ## Goal of the Experiment
 In this experiment we try to see if we can detect chatGPT written text on a topic using LPA.

@@ -5,11 +5,11 @@ description: "2023-04-02"
 date: 2023-04-02
 tags: [LPA ,Thesis , ML, Awesome , Warcraft]
 ---
+<!--more-->
 # LPA experiment in warcraft
 
 This repository contains code and data for the LPA experiment in warcraft.
 
-<!--more-->
 
 
 ## Goal of the Experiment
