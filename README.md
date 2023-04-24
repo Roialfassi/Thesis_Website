@@ -1,6 +1,5 @@
-# [NLP IL Blog](https://nnlp-il.github.io/Blog/)
+# Thesis Blog
 
-## The official blog of Israel's National NLP Program.
+## My Thesis Blog
 
 ## Site URL
-https://nnlp-il.github.io/Blog/
