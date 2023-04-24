@@ -1,0 +1,7 @@
+{
+    "description": "Tagging of additional paragraph by quality taggers from A1",
+    "prolificSubmissionId": "49582377",
+    "type": "limits",
+    "min": 400,
+    "max": 1389
+}
