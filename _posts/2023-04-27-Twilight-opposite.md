@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LPA Experiment - twilight Summary"
+title: "LPA Experiment - twilight Summary The Opposite Way"
 description: "Trying to identify ChatGPT written text in twilight "
 date: 2023-04-27
 tags: [LPA ,Thesis , ML, Awesome , twilight]
