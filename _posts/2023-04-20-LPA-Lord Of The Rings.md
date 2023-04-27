@@ -5,10 +5,11 @@ description: "LPA Experiment"
 date: 2023-04-02
 tags: [LPA ,Thesis , ML, Awesome , lord_of_the_rings]
 ---
-<!--more-->
 # LPA experiment in lord_of_the_rings
 
 This repository contains code and data for the LPA experiment in lord_of_the_rings.
+
+<!--more-->
 
 
 ## Goal of the Experiment
