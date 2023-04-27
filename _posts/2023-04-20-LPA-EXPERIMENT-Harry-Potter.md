@@ -5,11 +5,11 @@ description: "2023-04-02"
 date: 2023-04-02
 tags: [LPA ,Thesis , ML, Awesome , Harry_Potter]
 ---
+<!--more-->
+
 # LPA experiment in harry_potter
 
 This repository contains code and data for the LPA experiment in harry_potter.
-
-<!--more-->
 
 ## Goal of the Experiment
 In this experiment we try to see if we can detect chatGPT written text on a topic using LPA.
