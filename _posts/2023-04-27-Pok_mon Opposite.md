@@ -50,3 +50,4 @@ Our **highest** recall was **1.00 **
 Our **lowest** recall was **1.00**
 Our **median** recall was **1.00**
 
+![](../images/Experiments/KDE-P.jpg)
