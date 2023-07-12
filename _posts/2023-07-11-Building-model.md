@@ -2,10 +2,11 @@
 layout: post
 title: "LPA Experiment - Training A Model"
 description: "Trying to identify ChatGPT written text"
-feature_image: images\fanfic.png 
+feature_image: ..\images\fanfic.png 
 date: 2023-07-11
 tags: [LPA ,Thesis , ML]
 ---
+Training A model to detect GPT written text
 <!--more-->
 
 ## Goal of the Experiment
