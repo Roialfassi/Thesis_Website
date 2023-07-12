@@ -19,7 +19,7 @@ We trained a model for each topic and also on all the topics combined.
 ## Results
 ### Harry Potter 
 
-|        |      | Predicted | Actual |
+|        |      | Predicted | Predicted |
 |--------|------|-----------|--------|
 |        |      | GPT       | Real   |
 | Actual | GPT  | 3         | 7      |
@@ -29,7 +29,7 @@ Harry Potter was great on detecting real written text but not GPT even though it
 
 ### Warcraft
 
-|        |      | Predicted | Actual |
+|        |      | Predicted | Predicted |
 |--------|------|-----------|--------|
 |        |      | GPT       | Real   |
 | Actual | GPT  | 10        | 0      |
@@ -40,7 +40,7 @@ Trained on 45 GPT and 57 Real
 
 ## Twilight
 
-|        |      | Predicted | Actual |
+|        |      | Predicted | Predicted |
 |--------|------|-----------|--------|
 |        |      | GPT       | Real   |
 | Actual | GPT  | 10        | 0      |
@@ -50,7 +50,7 @@ Trained on 49 GPT and 56 Real
 
 ## Pokemon
 
-|        |      | Predicted | Actual |
+|        |      | Predicted | Predicted |
 |--------|------|-----------|--------|
 |        |      | GPT       | Real   |
 | Actual | GPT  | 9         | 1      |
@@ -60,7 +60,7 @@ Trained on 47 GPT and 52 Real
 
 ## Lord of the Rings
 
-|        |      | Predicted | Actual |
+|        |      | Predicted | Predicted |
 |--------|------|-----------|--------|
 |        |      | GPT       | Real   |
 | Actual | GPT  | 9         | 1      |
@@ -70,7 +70,7 @@ Trained on 48 GPT and 58 Real
 
 ## Combined 
 
-|        |      | Predicted | Actual |
+|        |      | Predicted | Predicted |
 |--------|------|-----------|--------|
 |        |      | GPT       | Real   |
 | Actual | GPT  | 42        | 8      |
